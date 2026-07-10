@@ -56,7 +56,7 @@ Run the simulation and verify:
 
 ## Simulation Waveform
 
-![Waveform](waveform.png)
+![Waveform](waveform_syn_fifo.png)
 
 ## Author
 

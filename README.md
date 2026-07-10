@@ -54,10 +54,10 @@ Run the simulation and verify:
 
 ---
 
-## Simulation Waveform
-
-![Waveform](waveform_syn_fifo.png)
-
 ## Author
 
 Yaswanth Reddy Devireddy
+
+## Simulation Waveform
+
+![Waveform](waveform_syn_fifo.png)

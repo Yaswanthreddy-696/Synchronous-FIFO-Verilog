@@ -54,6 +54,10 @@ Run the simulation and verify:
 
 ---
 
+## Simulation Waveform
+
+![Waveform](waveform.png)
+
 ## Author
 
 Yaswanth Reddy Devireddy
